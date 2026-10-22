@@ -2,7 +2,7 @@
 
 Si estás preparando el Exam Rank 02, seguramente tengas delante una lista de 56 ejercicios y la sensación de que hay que memorizarlos todos. No hace falta.
 
-Cuando los rehíces uno detrás de otro, pasa algo curioso: empiezas a escribir el mismo `main` una y otra vez. Cambia lo que hay dentro del bucle, pero el esqueleto es casi siempre el mismo. Este repo nace de ahí. En vez de ordenar los ejercicios por nivel, los ordena por **patrón**, para que al leer un enunciado lo primero que pienses sea "esto es un tipo-1" y la mitad del ejercicio ya esté escrita en tu cabeza.
+Cuando los rehagas uno detrás de otro, pasa algo curioso: empiezas a escribir el mismo `main` una y otra vez. Cambia lo que hay dentro del bucle, pero el esqueleto es casi siempre el mismo. Este repo nace de ahí. En vez de ordenar los ejercicios por nivel, los ordena por **patrón**, para que al leer un enunciado lo primero que pienses sea "esto es un tipo-1" y la mitad del ejercicio ya esté escrita en tu cabeza.
 
 ## Los tres tipos
 
